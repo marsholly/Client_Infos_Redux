@@ -93,7 +93,6 @@ class NewInfo extends Component {
           </div>
         <button type="submit" className="btn btn-success">Sumbit</button>
       </form>
-
     )
   }
 };
